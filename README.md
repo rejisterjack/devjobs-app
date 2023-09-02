@@ -1,17 +1,30 @@
-# Build and Deploy a React Native App | 2023 React Native Course Tutorial for Beginners
-![RN Course](https://i.ibb.co/VWMxgZz/File-cover-8.png)
+# Devjobs
+
+![Project Hero Image](https://res.cloudinary.com/dktfpedhu/image/upload/v1693645309/devjobs_usfv9p.jpg)
+
+[View Demo](https://github.com/rejisterjack/devjobs-app.git)
 
 ## Introduction
-The existence of React Native makes React one of the most valuable skills to have. Learn how to transform 75% of your knowledge from making websites into building mobile applications today!
 
-Alongside building this application, you'll also learn how to:
-- develop visually appealing UI/UX designs
-- fetch data from an external API and integrate it
-- implement search & pagination functionality
-- create customAPI data fetching hooks
-- write clean, organized, and maintainable code with proper architecture
-- follow the best practices for React Native development
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+Explore the DevJobs app, a dynamic mobile platform created with React Native and styled-components. This innovative application leverages the power of Rapid API to deliver real-time job listings for developers and tech enthusiasts. Discover your next career opportunity with a beautifully designed interface, while staying updated on the latest job postings in the tech industry—all in the palm of your hand.
+
+## Technologies Used
+
+
+<div style="background-color: #264de4; color: #fff; padding: 10px; margin: 5px; display: inline-block;">React Native</div>
+<div style="background-color: #61dbfb; color: #fff; padding: 10px; margin: 5px; display: inline-block;">Styled Components</div>
+<div style="background-color: #589636; color: #fff; padding: 10px; margin: 5px; display: inline-block;">Rapid API</div>
+
+
+## Installation
+
+Here are the installation steps
+
+```shell
+# installation commands
+git clone https://github.com/rejisterjack/devjobs-app.git
+cd devjobs-app
+npm i --legacy-peer-deps
+expo start
+
